@@ -25,7 +25,7 @@ SECRET_KEY = 'ep@cdgh_r7=z(sy(ma_(zje+&0myf1-#$0q1pl&twu=t67=v%g'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['*']
 
 
 # Application definition
